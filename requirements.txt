@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+plotly==5.10.0
+werkzeug==2.0.1
+streamlit
