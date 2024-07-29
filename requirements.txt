@@ -1,6 +1,6 @@
-numpy
+numpy==1.26.4
 pandas
 scipy
 plotly==5.10.0
 werkzeug==2.0.1
-streamlit
+streamlit==1.36.0
